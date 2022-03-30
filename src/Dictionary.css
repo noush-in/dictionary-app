@@ -1,5 +1,7 @@
 .Dictionary{
-  margin: 30px auto;
+  margin: 50px auto;
+  max-width: 960px;
+  
 }
 .Dictionary h1{
   font-size: 18px;
@@ -22,4 +24,5 @@
   border-radius: 8px;
   padding: 6px 10px;
   color:#333;
+  margin-bottom: 20px;
 }
