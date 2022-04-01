@@ -1,8 +1,14 @@
-.App-footer{
-  text-align: center;
-  margin: 30px auto;
+/** @format */
+
+.App-footer {
+	text-align: center;
+	margin: 30px auto;
 }
-.App{
-  max-width: 960px;
-  margin: 0 auto;
+.App {
+	max-width: 960px;
+	margin: 0 auto;
+}
+.App a {
+	text-decoration: none;
+	transition: all 150ms ease-in-out;
 }
